@@ -1,8 +1,8 @@
 {
-  "name": "react-phonebook-03",
+  "name": "react-phone-book-03",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kristina-salnyk.github.io/react-phonebook-03/",
+  "homepage": "https://kristina-salnyk.github.io/react-phone-book-03/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
